@@ -5,4 +5,4 @@ For the diploma project we were given a sheet with the themes. This is one of th
 Task to the site: "development of web-application of online store of medical equipment"
 
 ## GitHub-Pages
-https://oganesian.github.io/
+https://oganesian.github.io/Online-Store-of-medical-equipment/
